@@ -1,14 +1,14 @@
 ## SCD Studies
 
-## In progress
+## 2016 (In progress)
 
 -Dietary Therapy and Gut Microbiome in Crohn's Disease and Ulcerative Colitis
-  - Massachusetts General Hospital SCD Study with pre/post microbiome Analysis
-  - https://clinicaltrials.gov/ct2/show/NCT02412553?term=specific+carbohydrate+diet&rank=4
+   - Massachusetts General Hospital SCD Study with pre/post microbiome Analysis
+   - https://clinicaltrials.gov/ct2/show/NCT02412553?term=specific+carbohydrate+diet&rank=4
 
 - Nutritional Therapy Study in Pediatric Crohn's Disease
-  - Seattle Children's Hospital with chef cooking meals
-  - https://clinicaltrials.gov/ct2/show/NCT02610101?term=suskind&rank=8 
+   - Seattle Children's Hospital with chef cooking meals
+   - https://clinicaltrials.gov/ct2/show/NCT02610101?term=suskind&rank=8 
 
 ---
 
