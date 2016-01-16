@@ -2,9 +2,17 @@
 
 ## 2016 (In progress)
 
+- Treatment With the Specific Carbohydrate Diet for Children With Active Crohns Disease and Ulcerative Colitis (SCD)
+  - Seattle Children's Hospital with pre/post Microbiome Analysis
+  - https://clinicaltrials.gov/ct2/show/NCT02213835?term=%22Specific+Carbohydrate+Diet%22&rank=1
 
+- Specific Carbohydrate Diet as Maintenance Therapy in Crohn's Disease (SCD)
+  - Stanford University
+  - https://clinicaltrials.gov/ct2/show/NCT01749813?term=%22Specific+Carbohydrate+Diet%22&rank=2
+  
+  
 - Dietary Therapy and Gut Microbiome in Crohn's Disease and Ulcerative Colitis
-  - Massachusetts General Hospital SCD Study with pre/post microbiome Analysis
+  - Massachusetts General Hospital SCD Study with pre/post Microbiome Analysis
   - https://clinicaltrials.gov/ct2/show/NCT02412553?term=specific+carbohydrate+diet&rank=4
 
 - Nutritional Therapy Study in Pediatric Crohn's Disease
