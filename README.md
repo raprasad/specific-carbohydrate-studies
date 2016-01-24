@@ -1,5 +1,7 @@
 ## SCD Studies
 
+Studies relating to the use of the specific carbohydrate diet (SCD) for Crohn's disease, ulcerative colitis, irritable bowel syndrome (IBS), and autism.
+
 ## 2016 (In progress)
 
 - Treatment With the Specific Carbohydrate Diet for Children With Active Crohns Disease and Ulcerative Colitis (SCD)
