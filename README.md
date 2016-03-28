@@ -8,11 +8,6 @@ Studies relating to the use of the specific carbohydrate diet (SCD) for Crohn's 
   - Seattle Children's Hospital with pre/post Microbiome Analysis
   - https://clinicaltrials.gov/ct2/show/NCT02213835?term=%22Specific+Carbohydrate+Diet%22&rank=1
 
-- Specific Carbohydrate Diet as Maintenance Therapy in Crohn's Disease (SCD)
-  - Stanford University
-  - https://clinicaltrials.gov/ct2/show/NCT01749813?term=%22Specific+Carbohydrate+Diet%22&rank=2
-  
-  
 - Dietary Therapy and Gut Microbiome in Crohn's Disease and Ulcerative Colitis
   - Massachusetts General Hospital SCD Study with pre/post Microbiome Analysis
   - https://clinicaltrials.gov/ct2/show/NCT02412553?term=specific+carbohydrate+diet&rank=4
@@ -20,6 +15,17 @@ Studies relating to the use of the specific carbohydrate diet (SCD) for Crohn's 
 - Nutritional Therapy Study in Pediatric Crohn's Disease
   - Seattle Children's Hospital with chef cooking meals
   - https://clinicaltrials.gov/ct2/show/NCT02610101?term=suskind&rank=8 
+
+--- 
+
+
+## 2016 (published)
+
+Burgis, J. C. (2016). **Response to strict and liberalized specific carbohydrate diet in pediatric Crohn’s disease**. World Journal of Gastroenterology, 22(6), 2111. http://doi.org/10.3748/wjg.v22.i6.2111
+
+ - Links
+   - Full Article: http://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard.edu/pmc/articles/PMC4726683/
+
 
 ---
 
