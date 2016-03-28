@@ -16,7 +16,7 @@ Studies relating to the use of the specific carbohydrate diet (SCD) for Crohn's 
   - Seattle Children's Hospital with chef cooking meals
   - https://clinicaltrials.gov/ct2/show/NCT02610101?term=suskind&rank=8 
 
---- 
+--
 
 
 ## 2016
