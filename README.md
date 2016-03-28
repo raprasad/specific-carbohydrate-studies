@@ -14,9 +14,9 @@ Studies relating to the use of the specific carbohydrate diet (SCD) for Crohn's 
 
 - Nutritional Therapy Study in Pediatric Crohn's Disease
   - Seattle Children's Hospital with chef cooking meals
-  - https://clinicaltrials.gov/ct2/show/NCT02610101?term=suskind&rank=8 
+  - https://clinicaltrials.gov/ct2/show/NCT02610101?term=suskind&rank=8
 
---- 
+--
 
 
 ## 2016
@@ -26,11 +26,11 @@ Burgis, J. C. (2016). **Response to strict and liberalized specific carbohydrate
  - Links
    - Full Article: http://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard.edu/pmc/articles/PMC4726683/
 
----
+--
 
 Ferro, P., & Prasad, R. (2016). **Diets for Autism Spectrum Disorder: Learning from IBD and IBS Treatments**. Alternative and Complementary Therapies, 22(2), 1–5. http://doi.org/10.1089/act.2016.29046.pfe
 
----
+--
 
 ## 2015
 
@@ -39,13 +39,13 @@ Obih, C., Wahbeh, G., Lee, D., Braly, K., Giefer, M., Shaffer, M. L., ... & Susk
  - Links
    - Abstract: http://www.sciencedirect.com.ezp-prod1.hul.harvard.edu/science/article/pii/S0899900715003895
 
----
+--
 
 O'Dwyer, D. D., & Darville, R. L. (2015). **Specific carbohydrate diet: irritable bowel syndrome patient case study**. Nutrition & Food Science, 45(6).
  - Links
    - Abstract: http://www.emeraldinsight.com/doi/abs/10.1108/NFS-05-2015-0056
 
----
+--
 
 Khandalavala, B. N., & Nirmalraj, M. C. (2015). **Resolution of Severe Ulcerative Colitis with the Specific Carbohydrate Diet**. Case Reports in Gastroenterology, 3075, 291–295. doi:10.1159/000438745
   - Links (open access)
@@ -53,7 +53,7 @@ Khandalavala, B. N., & Nirmalraj, M. C. (2015). **Resolution of Severe Ulcerativ
     - [PDF](unrestricted-pdfs/khandalavala-2015.pdf "khandalavala-2015.pdf")
     - Blog post: http://blog.scdrecipe.com/blog/2015/8/11/medical-journal-resolution-of-severe-ulcerative-colitis-with-the-specific-carbohydrate-diet
 
----
+--
 
 Kakodkar, S., Farooqui, A. J., Mikolaitis, S. L., & Mutlu, E. a. (2015). **The Specific Carbohydrate Diet for Inflammatory Bowel Disease: A Case Series**. Journal of the Academy of Nutrition and Dietetics, 115(8), 1226–1232. doi:10.1016/j.jand.2015.04.016
 
@@ -62,7 +62,7 @@ Kakodkar, S., Farooqui, A. J., Mikolaitis, S. L., & Mutlu, E. a. (2015). **The S
     - [PDF](unrestricted-pdfs/kakodkar-scd-2015.pdf "kakodkar-scd-2015.pdf")
     - Blog post: http://blog.scdrecipe.com/blog/2015/7/24/scd-case-study-of-50-patientsremission-rush-university-in-chicago
 
----
+--
 
 de Silva, P. S., Ahrens, S., Cole, W., & Korzenik, J. R. (2015). **Tu1266 Response to the Specific Carbohydrate Diet Amongst Individuals With Inflammatory Bowel Disease-A Survey of 122 Patients**. Gastroenterology, 148(4), S-842.
 
@@ -75,13 +75,13 @@ Cohen, S. A., Gold, B. D., Oliva, S., Lewis, J., Stallworth, A., Koch, B., ... &
     - Abstract: http://www.ncbi.nlm.nih.gov/pubmed/24897165
     - Blog post: http://blog.scdrecipe.com/blog/2015/9/21/after-son-follows-scd-study-protocol-mom-starts-a-foundatio
 
----
+--
 
 Walters, S. S. Q. A., & Rolston, M. (2014). Analysis of Gut Microbiome and Diet Modification in Patients with Crohn’s Disease. SOJ Microbiology & Infectious Diseases, 2(3), 1-13.
  - Links
     - Abstract: http://www.ncbi.nlm.nih.gov/pubmed/24897165
 
----
+--
 
 Olendzki, B. C., Silverstein, T. D., Persuitte, G. M., Ma, Y., Baldwin, K. R., & Cave, D. (2014). **An anti-inflammatory diet as treatment for inflammatory bowel disease: a case series report.** Nutr J, 13(5).
  - Links
@@ -116,7 +116,7 @@ Nieves, R., & Jackson, R. T. (2004). **Specific carbohydrate diet in treatment o
   - Links
     - Abstract: http://www.ncbi.nlm.nih.gov/pubmed/24048168
 
----
+--
 
 Fridge, J. L., Kerner, J., & Cox, K. (2004). P0637 **THE SPECIFIC CARBOHYDRATE DIET-A TREATMENT FOR CROHN’S DISEASE?**. Journal of Pediatric Gastroenterology and Nutrition, 39, S299-S300.
   - Links
