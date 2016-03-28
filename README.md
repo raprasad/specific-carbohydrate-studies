@@ -19,13 +19,14 @@ Studies relating to the use of the specific carbohydrate diet (SCD) for Crohn's 
 --- 
 
 
-## 2016 (published)
+## 2016
 
 Burgis, J. C. (2016). **Response to strict and liberalized specific carbohydrate diet in pediatric Crohn’s disease**. World Journal of Gastroenterology, 22(6), 2111. http://doi.org/10.3748/wjg.v22.i6.2111
 
  - Links
    - Full Article: http://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard.edu/pmc/articles/PMC4726683/
 
+Ferro, P., & Prasad, R. (2016). **Diets for Autism Spectrum Disorder: Learning from IBD and IBS Treatments**. Alternative and Complementary Therapies, 22(2), 1–5. http://doi.org/10.1089/act.2016.29046.pfe
 
 ---
 
