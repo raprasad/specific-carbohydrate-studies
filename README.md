@@ -117,8 +117,6 @@ Nieves, R., & Jackson, R. T. (2004). **Specific carbohydrate diet in treatment o
     - Abstract: http://www.ncbi.nlm.nih.gov/pubmed/24048168
 
 
----
-
 Fridge, J. L., Kerner, J., & Cox, K. (2004). P0637 **THE SPECIFIC CARBOHYDRATE DIET-A TREATMENT FOR CROHN’S DISEASE?**. Journal of Pediatric Gastroenterology and Nutrition, 39, S299-S300.
   - Links
     - Abstract: http://blog.scdrecipe.com/blog/2005/01/25/journal-pediatric-gastroenterology-and-nutrition
