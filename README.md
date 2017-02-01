@@ -2,16 +2,6 @@
 
 Studies relating to the use of the specific carbohydrate diet (SCD) for Crohn's disease, ulcerative colitis, irritable bowel syndrome (IBS), and autism.
 
-## (In progress)
-
-
-- Dietary Therapy and Gut Microbiome in Crohn's Disease and Ulcerative Colitis
-  - Massachusetts General Hospital SCD Study with pre/post Microbiome Analysis
-  - https://clinicaltrials.gov/ct2/show/NCT02412553?term=specific+carbohydrate+diet&rank=4
-
-- Nutritional Therapy Study in Pediatric Crohn's Disease
-  - Seattle Children's Hospital with chef cooking meals
-  - https://clinicaltrials.gov/ct2/show/NCT02610101?term=suskind&rank=8
 
 ## 2017
 
@@ -115,3 +105,16 @@ Nieves, R., & Jackson, R. T. (2004). **Specific carbohydrate diet in treatment o
 Fridge, J. L., Kerner, J., & Cox, K. (2004). P0637 **THE SPECIFIC CARBOHYDRATE DIET-A TREATMENT FOR CROHN’S DISEASE?**. Journal of Pediatric Gastroenterology and Nutrition, 39, S299-S300.
   - Links
     - Abstract: http://blog.scdrecipe.com/blog/2005/01/25/journal-pediatric-gastroenterology-and-nutrition
+
+---
+
+## (In progress)
+
+
+- Dietary Therapy and Gut Microbiome in Crohn's Disease and Ulcerative Colitis
+  - Massachusetts General Hospital SCD Study with pre/post Microbiome Analysis
+  - https://clinicaltrials.gov/ct2/show/NCT02412553?term=specific+carbohydrate+diet&rank=4
+
+- Nutritional Therapy Study in Pediatric Crohn's Disease
+  - Seattle Children's Hospital with chef cooking meals
+  - https://clinicaltrials.gov/ct2/show/NCT02610101?term=suskind&rank=8
