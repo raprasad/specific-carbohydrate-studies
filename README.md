@@ -2,11 +2,8 @@
 
 Studies relating to the use of the specific carbohydrate diet (SCD) for Crohn's disease, ulcerative colitis, irritable bowel syndrome (IBS), and autism.
 
-## 2016 (In progress)
+## (In progress)
 
-- Treatment With the Specific Carbohydrate Diet for Children With Active Crohns Disease and Ulcerative Colitis (SCD)
-  - Seattle Children's Hospital with pre/post Microbiome Analysis
-  - https://clinicaltrials.gov/ct2/show/NCT02213835?term=%22Specific+Carbohydrate+Diet%22&rank=1
 
 - Dietary Therapy and Gut Microbiome in Crohn's Disease and Ulcerative Colitis
   - Massachusetts General Hospital SCD Study with pre/post Microbiome Analysis
@@ -16,12 +13,19 @@ Studies relating to the use of the specific carbohydrate diet (SCD) for Crohn's 
   - Seattle Children's Hospital with chef cooking meals
   - https://clinicaltrials.gov/ct2/show/NCT02610101?term=suskind&rank=8
 
+## 2017
 
+Nakayuenyongsuk, Warapan, et al. **Diet to the Rescue: Cessation of Pharmacotherapy After Initiation of Exclusive Enteral Nutrition (EEN) Followed by Strict and Liberalized Specific Carbohydrate Diet (SCD) in Crohn’s Disease.** Digestive Diseases and Sciences (2017): 1-4.  http://link.springer.com/article/10.1007/s10620-016-4446-1
+    - Case study of 15-year-old male
 
 ## 2016
 
-Burgis, J. C. (2016). **Response to strict and liberalized specific carbohydrate diet in pediatric Crohn’s disease**. World Journal of Gastroenterology, 22(6), 2111. http://doi.org/10.3748/wjg.v22.i6.2111
+Suskind, David L., et al. **Clinical and Fecal Microbial Changes With Diet Therapy in Active Inflammatory Bowel Disease**. Journal of Clinical Gastroenterology (2016). https://www.ncbi.nlm.nih.gov/pubmed/28030510
+  - Seattle Children's Hospital with pre/post Microbiome Analysis
 
+Suskind, David L., et al. **Patients Perceive Clinical Benefit with the Specific Carbohydrate Diet for Inflammatory Bowel Disease.** Digestive diseases and sciences 61.11 (2016): 3255-3260. https://www.ncbi.nlm.nih.gov/pubmed/27638834
+
+Burgis, J. C. (2016). **Response to strict and liberalized specific carbohydrate diet in pediatric Crohn’s disease**. World Journal of Gastroenterology, 22(6), 2111. http://doi.org/10.3748/wjg.v22.i6.2111
  - Links
    - Full Article: http://www-ncbi-nlm-nih-gov.ezp-prod1.hul.harvard.edu/pmc/articles/PMC4726683/
 
