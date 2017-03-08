@@ -2,7 +2,7 @@ title: Specific-carbohydrate-studies
 description: SCD Study List
 google_analytics: UA-372003-8
 show_downloads: true
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
